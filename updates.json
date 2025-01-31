@@ -1,0 +1,12 @@
+{
+    "addons": {
+      "codex.cleanup@example.com": {
+        "updates": [
+          {
+            "version": "1.0",
+            "update_link": "https://boblanners.github.io/Clean-Codex/MyArchive.zip"
+          }
+        ]
+      }
+    }
+  }
